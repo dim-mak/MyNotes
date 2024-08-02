@@ -61,3 +61,5 @@ I am pretty sure that there will exist pressure moments. I am confident that I h
 
 ## How did I find the position?
 **LinkedIn** : I was looking all the time about any position in your firm.
+
+## IDE?
