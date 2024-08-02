@@ -11,8 +11,12 @@
             "id": "64a2e5af7fe65f04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/HR Interview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interviews/HR Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interviews/HR Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-02.md"
+                "file": "Interviews/HR Interview.md"
               }
             }
           }
@@ -140,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9d7e3534659cdf0",
+  "active": "64a2e5af7fe65f04",
   "lastOpenFiles": [
+    "README.md",
+    "Interviews/HR Interview.md",
     "2024-08-02.md",
     "Untitled.canvas",
     "Untitled",
-    "Interviews/HR Interview.md",
     "Interviews/IDE.md",
     "Interviews"
   ]
