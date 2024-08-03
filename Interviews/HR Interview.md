@@ -1,5 +1,5 @@
 ## About me
-* ECE - Patras - 5 years - Integrated Master 
+* **Studies**: ECE - Patras - 5 years - Integrated Master 
 	* Specialty: HW & SW (Τομέας ηλεκτρονικής και υπολογιστών)
 * **Thesis**: Design and implementation of VLSI architectures using High Level Synthesis for edge detection in digital images
 	* FPGA 
