@@ -1,3 +1,5 @@
+# HR QUESTIONS
+
 ## About me
 * **Studies**: ECE - Patras - 5 years - Integrated Master 
 	* Specialty: HW & SW (Τομέας ηλεκτρονικής και υπολογιστών)
